@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/pages/dependencies.js": "/js/pages/dependencies.js",
+    "/js/pages/lists.js": "/js/pages/lists.js",
+    "/js/pages/shipments_user.js": "/js/pages/shipments_user.js",
+    "/js/pages/types.js": "/js/pages/types.js",
+    "/js/pages/users.js": "/js/pages/users.js"
+}
